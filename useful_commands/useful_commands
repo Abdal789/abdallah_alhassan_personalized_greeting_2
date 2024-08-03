@@ -1,0 +1,14 @@
+KEYGEN COMMAND=.  ssh-keygen -t ed25519 -C "" 
+
+SSH ACCESS= ssh -i abdallah_04_03_new.pem ubuntu@100.25.147.120
+
+
+
+GIT CLONE COMMAND= GIT_SSH_COMMAND='ssh -t /home/ubuntu/personalised_greetings' git clone git@github.com:b-oppon-work/bernard_Oppon_p
+ersonalized_gre
+
+GiIT CLONE COMMAND: git clone abdallah_04_03_new__assignment:Abdal789/abdallah_alhassan_personalized_greeting_2.git
+
+EVAL COMMAND= eval $(ssh-agent)/ssh-add /home/ubuntu/test_keys
+
+BRANCH COMMAND= git checkout -b
